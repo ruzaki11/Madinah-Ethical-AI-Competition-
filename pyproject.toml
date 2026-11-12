@@ -2,7 +2,7 @@
 name = "Madinah-Competition"
 version = "1.0"
 
-
+requires-python = ">=3.13"
 dependencies = [
     "contourpy==1.4.0",
     "cycler==0.12.1",
@@ -16,4 +16,6 @@ dependencies = [
     "pyparsing==3.3.3",
     "python-dateutil==4.0.0",
     "tzdata==2026.6",
+    "pathlib==1.0.1",
+    "scikit-learn==1.9.1"
 ]
