@@ -20,4 +20,5 @@ dependencies = [
     "scikit-learn==1.9.1",
     "xgboost==3.4.1",
     "stack-data==0.6.3",
+    "seaborn==0.13.2",
 ]
